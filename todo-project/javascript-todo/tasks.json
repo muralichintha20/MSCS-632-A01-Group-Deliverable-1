@@ -1,0 +1,125 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design database schema",
+      "description": "ERD + DDL scripts",
+      "category": "WORK",
+      "assignedTo": "alice",
+      "status": "COMPLETED",
+      "createdAt": "2026-05-24T02:30:52.339Z",
+      "updatedAt": "2026-05-24T02:39:06.506Z"
+    },
+    {
+      "id": 2,
+      "title": "Write unit tests",
+      "description": "JUnit/Jest coverage",
+      "category": "WORK",
+      "assignedTo": "carol",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:30:52.364Z",
+      "updatedAt": "2026-05-24T02:39:06.592Z"
+    },
+    {
+      "id": 3,
+      "title": "Buy groceries",
+      "description": "Milk, eggs, bread",
+      "category": "SHOPPING",
+      "assignedTo": "carol",
+      "status": "COMPLETED",
+      "createdAt": "2026-05-24T02:30:52.378Z",
+      "updatedAt": "2026-05-24T02:39:06.537Z"
+    },
+    {
+      "id": 4,
+      "title": "Code review PR #42",
+      "description": "Backend API changes",
+      "category": "WORK",
+      "assignedTo": "alice",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:30:52.395Z",
+      "updatedAt": "2026-05-24T02:30:52.395Z"
+    },
+    {
+      "id": 5,
+      "title": "Morning run",
+      "description": "5km target",
+      "category": "HEALTH",
+      "assignedTo": "bob",
+      "status": "IN_PROGRESS",
+      "createdAt": "2026-05-24T02:30:52.411Z",
+      "updatedAt": "2026-05-24T02:39:06.522Z"
+    },
+    {
+      "id": 6,
+      "title": "Sprint planning",
+      "description": "Q3 kick-off meeting",
+      "category": "WORK",
+      "assignedTo": "alice",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:30:52.491Z",
+      "updatedAt": "2026-05-24T02:30:52.491Z"
+    },
+    {
+      "id": 7,
+      "title": "Design database schema",
+      "description": "ERD + DDL scripts",
+      "category": "WORK",
+      "assignedTo": "alice",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:39:06.405Z",
+      "updatedAt": "2026-05-24T02:39:06.406Z"
+    },
+    {
+      "id": 8,
+      "title": "Write unit tests",
+      "description": "JUnit/Jest coverage",
+      "category": "WORK",
+      "assignedTo": "bob",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:39:06.429Z",
+      "updatedAt": "2026-05-24T02:39:06.429Z"
+    },
+    {
+      "id": 9,
+      "title": "Buy groceries",
+      "description": "Milk, eggs, bread",
+      "category": "SHOPPING",
+      "assignedTo": "carol",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:39:06.442Z",
+      "updatedAt": "2026-05-24T02:39:06.442Z"
+    },
+    {
+      "id": 10,
+      "title": "Code review PR #42",
+      "description": "Backend API changes",
+      "category": "WORK",
+      "assignedTo": "alice",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:39:06.459Z",
+      "updatedAt": "2026-05-24T02:39:06.459Z"
+    },
+    {
+      "id": 11,
+      "title": "Morning run",
+      "description": "5km target",
+      "category": "HEALTH",
+      "assignedTo": "bob",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:39:06.475Z",
+      "updatedAt": "2026-05-24T02:39:06.475Z"
+    },
+    {
+      "id": 12,
+      "title": "Sprint planning",
+      "description": "Q3 kick-off meeting",
+      "category": "WORK",
+      "assignedTo": "alice",
+      "status": "PENDING",
+      "createdAt": "2026-05-24T02:39:06.553Z",
+      "updatedAt": "2026-05-24T02:39:06.554Z"
+    }
+  ],
+  "nextId": 13
+}
